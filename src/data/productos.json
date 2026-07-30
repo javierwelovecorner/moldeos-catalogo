@@ -1,0 +1,519 @@
+{
+  "catalogo": {
+    "nombre": "Catálogo de Productos Moldeos Especializados",
+    "anio": 2020,
+    "fuente": "CatalogoME2020_actualizado.pdf"
+  },
+  "industrias": [
+    {
+      "id": "alimenticia",
+      "nombre": "Industria Alimenticia",
+      "nota": "La materias primas usadas para la elaboración de estos productos están aprobadas por la FDA",
+      "productos": [
+        {
+          "id": "asa-28-six",
+          "nombre": "Asa 28 Six",
+          "material": "Polietileno de alta densidad",
+          "pigmento": "Varios Colores",
+          "peso": "13.50 gr. (+- 0.70 gr.)",
+          "pagina": 4,
+          "imagen": null
+        },
+        {
+          "id": "asa-28-una-oreja",
+          "nombre": "Asa 28, Una Oreja",
+          "material": "Polietileno de Alta Densidad",
+          "pigmento": "Varios Colores",
+          "peso": "2.10 gr. (+/- .020 gr.)",
+          "pagina": 4,
+          "imagen": null
+        },
+        {
+          "id": "asa-28-dos-oreja",
+          "nombre": "Asa 28, Dos Oreja",
+          "material": "Polietileno de Baja Densidad",
+          "pigmento": "Varios Colores",
+          "peso": "2.50 gr. (+/- .50 gr)",
+          "pagina": 4,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-33-1-8",
+          "nombre": "Flip Top 33 1/8",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "4.00 gr. (+-0.30 gr.)",
+          "pagina": 5,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-38-lisa",
+          "nombre": "Flip Top 38 Lisa",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "6.20 gr. (+-1.00 gr.)",
+          "pagina": 5,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-33-1-4",
+          "nombre": "Flip Top 33 1/4",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "4.00 gr. (+-0.30 gr.)",
+          "pagina": 5,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-33-1-2",
+          "nombre": "Flip Top 33 1/2",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "4.00 gr. (+-0.30 gr.)",
+          "pagina": 5,
+          "imagen": null
+        },
+        {
+          "id": "tapa-dosificadora-41-especiero",
+          "nombre": "Tapa Dosificadora 41 Especiero",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "3.70 gr. (+-0.30 gr.)",
+          "pagina": 5,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-38mm-2-entradas",
+          "nombre": "Tapa Rosca 38mm, 2 Entradas",
+          "material": "Polietileno de Alta Densidad",
+          "pigmento": "Varios colores",
+          "peso": "3.30 gr. (+-0.30 gr.)",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-96mm-lisa",
+          "nombre": "Tapa Rosca 96mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "17.50+/- 0.80gr",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-inv-38mm-con-liner",
+          "nombre": "Tapa Rosca Inv. 38mm, con Liner",
+          "material": "Polietileno de Alta y de Baja",
+          "pigmento": "Varios colores",
+          "peso": "5.00 +/- de 0.30gr",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-inviolable-28mm-alentas",
+          "nombre": "Tapa Rosca Inviolable 28mm, con Alentas",
+          "material": "Polipropileno Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "2.80 gr. (+-0.25 gr.)",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-sport-28mm-lisa",
+          "nombre": "Flip Top Sport 28mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "9.50 +/- 0.80gr",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-inv-28mm-alta",
+          "nombre": "Tapa Rosca Inv 28mm, Alta",
+          "material": "Polietileno de Baja Densidad",
+          "pigmento": "Varios colores",
+          "peso": "1.67 +/- 0.30gr.",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-38mm-ancha-lisa",
+          "nombre": "Flip Top 38mm, Ancha, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "13.10 +/- 0.80gr.",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-inv-38mm-sin-liner",
+          "nombre": "Tapa Rosca Inv. 38mm, sin Liner",
+          "material": "Polietileno de Alta y de Baja",
+          "pigmento": "Varios colores",
+          "peso": "4.79+/- de 0.30gr",
+          "pagina": 6,
+          "imagen": null
+        },
+        {
+          "id": "vaso-1-litro",
+          "nombre": "Vaso 1 Litro",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "38.05 gr. (+-0.2 gr.)",
+          "pagina": 7,
+          "imagen": null
+        },
+        {
+          "id": "tapa-28-deportiva",
+          "nombre": "Tapa 28 Deportiva",
+          "material": "Copolímero",
+          "pigmento": "Varios colores",
+          "peso": "4.00 gr. (+-0.30 gr.)",
+          "pagina": 7,
+          "imagen": null
+        },
+        {
+          "id": "tapa-dosificadora-28-ensamblada",
+          "nombre": "Tapa Dosificadora 28 Ensamblada",
+          "material": "Polietileno de alta densidad, polietileno de baja densidad",
+          "pigmento": "Varios colores",
+          "peso": "5.175 gr. (+- 0.30 gr.) — peso tapa ensamblada",
+          "pagina": 7,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-28mm-presion",
+          "nombre": "Flip Top 28 mm Presión",
+          "material": "Polietileno de Baja Densidad",
+          "pigmento": "Varios colores",
+          "peso": "4.50 gr. (+-0.20 gr.)",
+          "pagina": 7,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-26mm-presion",
+          "nombre": "Flip Top 26 mm Presión",
+          "material": "Polietileno de Baja Densidad",
+          "pigmento": "Varios colores",
+          "peso": "3.85 gr. (+-0.80 gr.)",
+          "pagina": 7,
+          "imagen": null
+        },
+        {
+          "id": "vaso-12-onzas",
+          "nombre": "Vaso 12 onzas",
+          "material": "Policarbonato",
+          "pigmento": null,
+          "peso": "63.95 +/- 0.5gr.",
+          "pagina": 8,
+          "imagen": null
+        },
+        {
+          "id": "vaso-9-onzas",
+          "nombre": "Vaso 9 onzas",
+          "material": "Policarbonato",
+          "pigmento": null,
+          "peso": "53.32 gr +/- 0.5gr.",
+          "pagina": 8,
+          "imagen": null
+        },
+        {
+          "id": "vaso-cafe-16-onzas",
+          "nombre": "Vaso para Café, 16 onzas",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "34.50 +/- 1.0gr.",
+          "pagina": 8,
+          "imagen": null
+        },
+        {
+          "id": "tapa-para-vaso",
+          "nombre": "Tapa para Vaso",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "10.75 +/- 1.0gr.",
+          "pagina": 8,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "id": "cosmetica",
+      "nombre": "Industria Cosmética",
+      "nota": null,
+      "productos": [
+        {
+          "id": "flip-top-28mm-ancha-lisa-corta",
+          "nombre": "Flip Top 28 mm Ancha, Lisa, Corta",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "9.50 gr. (+-0.30 gr.)",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-28mm-ancha-corta",
+          "nombre": "Flip Top 28 mm Ancha, Corta",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "13.80 +/- 0.80gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-28mm-chica-alta",
+          "nombre": "Flip Top 28 mm Chica, Alta",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "9.50 +/- 0.30gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-45mm-lisa",
+          "nombre": "Tapa Rosca 45 mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "3.70 +/- 1.0gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-63mm-lisa",
+          "nombre": "Tapa Rosca 63 mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "6.00 +/- 0.6gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-89mm-lisa",
+          "nombre": "Tapa Rosca 89 mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "12.00 +/- 0.8gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-100mm-lisa",
+          "nombre": "Tapa Rosca 100 mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "13.230 +/- 0.80gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "tapa-rosca-110mm-lisa",
+          "nombre": "Tapa Rosca 110 mm, Lisa",
+          "material": "Polipropileno",
+          "pigmento": "Varios colores",
+          "peso": "19.00 +/- 1.5gr.",
+          "pagina": 9,
+          "imagen": null
+        },
+        {
+          "id": "flip-top-33mm-4-cav",
+          "nombre": "Flip Top 33mm, 4 Cav",
+          "material": "Polipropileno y Copolímero",
+          "pigmento": "Varios colores",
+          "peso": null,
+          "pagina": 10,
+          "imagen": null
+        },
+        {
+          "id": "bote-1-litro-liso",
+          "nombre": "Bote 1 Litro Liso",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "60.00 +/- 0.50gr.",
+          "pagina": 10,
+          "imagen": null
+        },
+        {
+          "id": "tapa-bote-1-litro-cintillo",
+          "nombre": "Tapa para Bote 1 Litro, con Cintillo",
+          "material": "Polietileno de Alta y Baja",
+          "pigmento": "Natural",
+          "peso": "58.70 +/- 0.5gr.",
+          "pagina": 10,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "id": "farmaceutica",
+      "nombre": "Industria Farmacéutica",
+      "nota": null,
+      "productos": [
+        {
+          "id": "vaso-copro-100ml",
+          "nombre": "Vaso Copro 100 ml",
+          "material": "Polipropileno",
+          "pigmento": "Natural",
+          "peso": "11.75 +/- 1.00gr.",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "tapa-copro-60mm",
+          "nombre": "Tapa Copro 60mm",
+          "material": "Polipropileno de Alta",
+          "pigmento": "Azul celeste",
+          "peso": "6.90 +/- 1.00gr.",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "frasco-45ml",
+          "nombre": "Frasco 45 ml",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "8.80 +/- 0.30gr.",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "tapa-33",
+          "nombre": "Tapa 33",
+          "material": "Polietileno de Baja",
+          "pigmento": "Blanco",
+          "peso": "2.36 +/- 0.30gr.",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "frasco-20ml",
+          "nombre": "Frasco 20 ml",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "5.90 +/- 0.30gr",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "tapa-24",
+          "nombre": "Tapa 24",
+          "material": "Polietileno de Baja",
+          "pigmento": "Blanco",
+          "peso": "1.67 +/- 0.30gr",
+          "pagina": 11,
+          "imagen": null
+        },
+        {
+          "id": "vaso-pastillero-26x51",
+          "nombre": "Vaso Pastillero 26x51",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "3.74 +/-0.30 gr.",
+          "pagina": 12,
+          "imagen": null
+        },
+        {
+          "id": "tapa-inv-presion-28-baja",
+          "nombre": "Tapa Inv. Presión 28",
+          "material": "Polietileno de Baja",
+          "pigmento": "Blanco",
+          "peso": "2.15 +/- 0.40 gr.",
+          "pagina": 12,
+          "imagen": null
+        },
+        {
+          "id": "vaso-pastillero-26x65",
+          "nombre": "Vaso Pastillero 26x65",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "5.8 +/- 0.5 gr.",
+          "pagina": 12,
+          "imagen": null
+        },
+        {
+          "id": "tapa-inv-presion-28-alta",
+          "nombre": "Tapa Inv. Presión 28",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "2.15 +/- 0.40 gr.",
+          "pagina": 12,
+          "imagen": null
+        },
+        {
+          "id": "pastillero-35x52",
+          "nombre": "Pastillero 35x52",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanco",
+          "peso": "5.9 +/- 0.30gr",
+          "pagina": 12,
+          "imagen": null
+        },
+        {
+          "id": "tapa-inv-presion-36",
+          "nombre": "Tapa Inv. Presión 36",
+          "material": "Polietileno de Baja",
+          "pigmento": "Blanco",
+          "peso": "3.05 +/- .50 gr.",
+          "pagina": 12,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "id": "construccion",
+      "nombre": "Industria de la Construcción",
+      "nota": null,
+      "productos": [
+        {
+          "id": "luminaria-suburbana-12",
+          "nombre": "Luminaria Suburbana 12",
+          "material": "Poliestireno",
+          "pigmento": "Transparente",
+          "peso": "320 +/- 0.20gr.",
+          "pagina": 13,
+          "imagen": null
+        },
+        {
+          "id": "cubeta-15l",
+          "nombre": "Cubeta 15L",
+          "material": "Polietileno de Alta y Baja",
+          "pigmento": "Blanco",
+          "peso": "0.570g",
+          "pagina": 13,
+          "imagen": null
+        },
+        {
+          "id": "tapa-cubeta-15l",
+          "nombre": "Tapa Cubeta 15L",
+          "material": "Polietileno de Alta",
+          "pigmento": "Blanca",
+          "peso": "0.132g",
+          "pagina": 13,
+          "imagen": null
+        }
+      ]
+    }
+  ],
+  "colaboraciones": {
+    "nota_legal": "IMPORTANTE: Esta sección muestra productos de marca de clientes (Hellmann's, Valentina, Vive100, TEC Italy, eGo, etc.). Antes de publicar en un sitio web nuevo, confirmar con Josué si existe autorización explícita de esas marcas para mostrarse en moldeos.com — el hecho de estar en el catálogo impreso de 2020 no garantiza el derecho de uso en un canal digital nuevo.",
+    "secciones": [
+      {
+        "id": "colab-alimenticia",
+        "industria": "Industria Alimenticia",
+        "marcas_mencionadas": ["Nutrioli", "Vive100", "Hellmann's", "Vitaloe", "Valentina", "San Luis"],
+        "pagina": 14
+      },
+      {
+        "id": "colab-cosmetica",
+        "industria": "Industria Cosmética",
+        "marcas_mencionadas": ["Xtreme Professional", "TEC Italy", "eGo"],
+        "pagina": 15
+      },
+      {
+        "id": "colab-construccion",
+        "industria": "Industria de la Construcción",
+        "marcas_mencionadas": [],
+        "pagina": 16
+      }
+    ]
+  }
+}
