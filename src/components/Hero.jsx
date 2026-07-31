@@ -6,7 +6,7 @@ export default function Hero() {
           Catálogo técnico · Julio 2026
         </p>
         <h1 className="font-display uppercase text-4xl md:text-6xl leading-[0.95] tracking-tight max-w-3xl">
-          Catálogo Moldeos <span className="text-[var(--red)]">y catálogo técnico.</span>
+          Catálogo Moldeos
         </h1>
         <p className="mt-6 max-w-xl text-[var(--steel)] text-lg">
           Moldes y plásticos de precisión para alimentos, cosméticos, farmacéutica
